@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="oxidhome-logo-400.png" alt="OxidHome logo" width="160" />
-
-# OxidHome
-
-**Home automation, forged in Rust.**
-
-</div>
-
----
-
 ## About
 
 OxidHome is an open home-automation platform built around two ideas:
