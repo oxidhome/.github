@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../oxidhome-logo-400.png" alt="OxidHome logo" width="160" />
+<img src="oxidhome-logo-400.png" alt="OxidHome logo" width="160" />
 
 # OxidHome
 
