@@ -7,6 +7,11 @@ OxidHome is an open home-automation platform built around two ideas:
 
 The goal is a hub that's safe to expose to the rest of your home network, fast enough to react in real time, and flexible enough to support the long tail of devices and protocols that make smart-home setups interesting.
 
+### Links
+
+- **Website** — [oxidehome.info](https://oxidehome.info)
+- **Discussions** — [discussions](https://oxidehome.info/discussions/)
+
 ## Why Rust + WebAssembly
 
 Smart-home hubs sit in a privileged spot on a home network — they talk to lights, locks, cameras, sensors, and increasingly anything with a radio. That makes two properties non-negotiable: **security** and **reliability**. A crash or a memory corruption bug isn't just an inconvenience; it's a foothold.
