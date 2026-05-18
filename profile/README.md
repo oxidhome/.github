@@ -9,8 +9,8 @@ The goal is a hub that's safe to expose to the rest of your home network, fast e
 
 ### Links
 
-- **Website** — [oxidehome.info](https://oxidehome.info)
-- **Discussions** — [discussions](https://oxidehome.info/discussions/)
+- **Website** — [oxidhome.info](https://oxidhome.info)
+- **Discussions** — [discussions](https://oxidhome.info/discussions/)
 
 ## Why Rust + WebAssembly
 
